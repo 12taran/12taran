@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Taranpreet Batra
+# Hi there! 👋 I'm Taranpreet Singh Batra
 
 ## 🚀 DevOps Engineer | Cloud Infrastructure Specialist | Full-Stack Developer
 
