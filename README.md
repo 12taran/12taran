@@ -96,6 +96,11 @@ I'm always excited to collaborate or chat about DevOps, cloud, or scalable archi
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/12taran/12taran/output/github-contribution-grid-snake.svg)
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=12taran&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
