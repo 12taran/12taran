@@ -98,7 +98,9 @@ I'm always excited to collaborate or chat about DevOps, cloud, or scalable archi
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/12taran/12taran/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/12taran/12taran/output/github-snake.svg)
+![Snake dark](https://raw.githubusercontent.com/12taran/12taran/output/github-snake-dark.svg)
+![Snake ocean](https://raw.githubusercontent.com/12taran/12taran/output/ocean.gif)
 
 
 <div align="center">
